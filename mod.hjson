@@ -5,7 +5,7 @@ displayName: "Toolkit V7 mod"
 name: "toolkit"
 
 #your name
-author: "wshon"
+author: "wshon || mod by khanhlamvirual"
 
 #the fully qualified main class of the mod
 main: "toolkit.ToolkitMod"
